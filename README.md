@@ -1,7 +1,8 @@
 # unity-volume-slider
 
 ## Description
-This is a component for the slider that sets the volume of AudioMixer.
+This is a component for the slider that sets the volume of Unity's Audio Mixer.
+It is easy to adjust because it is controlled by sound pressure instead of decibel.
 
 ## How to use
 At the Audio Mixer...
@@ -26,6 +27,6 @@ At the scene...
 
 ![screenshot](https://github.com/neuneu9/unity-volume-slider/blob/images/inspector_setup.png)
 
-*Don't forget to set group at your AudioSource!
+*Don't forget to set Audio Mixer group at your AudioSource!
 
 ![screenshot](https://github.com/neuneu9/unity-volume-slider/blob/images/audio_source.png)
